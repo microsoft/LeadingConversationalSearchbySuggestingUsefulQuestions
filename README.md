@@ -3,7 +3,7 @@
 This is the repo for the WebConf 2020's paper:Leading Conversational Search by Suggesting Useful Questions
 
 ## Data
-To Access the data from the paper please navidate to [https://microsoft.github.io/msmarco/](https://microsoft.github.io/msmarco/), agree to the Terms and Conditions and the relevant files will be availible.
+To Access the data from the paper please navigate to [https://microsoft.github.io/msmarco/](https://microsoft.github.io/msmarco/), agree to the Terms and Conditions and the relevant files will be availible.
 
 ## Contributing
 
